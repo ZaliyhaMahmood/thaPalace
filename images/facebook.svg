@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="121" viewBox="0 0 120 121">
+  <defs>
+    <filter id="Path_1491" x="0" y="0" width="120" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1118" data-name="Group 1118" transform="translate(-202 -957)">
+    <g transform="matrix(1, 0, 0, 1, 202, 957)" filter="url(#Path_1491)">
+      <path id="Path_1491-2" data-name="Path 1491" d="M42,0C65.2,0,84,19.028,84,42.5S65.2,85,42,85,0,65.972,0,42.5,18.8,0,42,0Z" transform="translate(18 10)" fill="#fff"/>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M22.726,23.733,23.9,16.1H16.571V11.142c0-2.089,1.023-4.125,4.3-4.125h3.331V.516A40.619,40.619,0,0,0,18.294,0C12.26,0,8.316,3.657,8.316,10.278V16.1H1.609v7.636H8.316V42.191h8.255V23.733Z" transform="translate(248.825 987.826)" fill="#00b1ff"/>
+  </g>
+</svg>
